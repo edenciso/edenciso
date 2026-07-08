@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Eduardo 👋
 
-<!--
-**edenciso/edenciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a founder & strategic AI builder who can bridge AI agent architecture, enterprise workflow transformation, and business value realization.
+I'm currently leading the development of GenAI solutions, autonomous multi-agent systems, and human-in-the-loop workflows powered by SOTA LLMs at Swarmode. Previously, I led strategic Azure partnerships with global startups at Microsoft.
 
-Here are some ideas to get you started:
+ [X](https://x.com/edenciso) · [LinkedIn](https://www.linkedin.com/in/edenciso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Featured Agentic AI Projects
+
+* **[Autonomous AI Value Engine](https://roadmap.valuelayer.ai/)** – 21-Agent Engine, 4 autonomous workflows to assess AI projects ROI attribution, GTM execution, AI tools sprawl, and deal lost revenue that allows companies unlock measurable AI value from their deployments.
+* **[ValueOS Agentic Beta](https://github.com/edenciso/valueOS-agentic-beta)** – AI-native AWS Serverless deployment for [ValueOS](https://valuelayer.ai/valueos), a multi-agent system architecture to measure and capture value from your AI stack.
+* **[AI B2B Sales Automation Agent](https://github.com/edenciso/ai-b2b-sales-agent)** – An autonomous AI agent powered by Claude that automates the B2B sales process from market research, lead qualification to personalized outreach email and CRM records management via MCP servers.
+
+##  Agentic AI Application Demos (Powered by Claude Sonnet/Opus)
+
+* **[Remix Intelligence Studio](https://agentic-remix-studio-demo.pages.dev/)** – 6-agent autonomous workflow that ingests a weekly batch of cross-functional signals and produces a CEO-ready decision memo with evidence-backed themes, contradictions, recommendations, and calibrated confidence.
+* **[Remix Discovery Studio](https://remix-discovery-studio.pages.dev/)** – 6-agent autonomous workflow that ingests a coded interview corpus from users and returns a discovery synthesis memo for Product Managers to support decision-making.
+* **[Multi-Agent GTM Audit](https://gtm-audit-demo.pages.dev/)** – Autonomous 5-agent workflow powered by Claude that ingest an AI startup JSON sample data to diagnose their GTM health score, execution gaps and generate an executive report including an AI GTM implementation roadmap.
+
+## Open-source Agentic Deployment Templates (AWS SAM, Bedrock + Claude)
+
+* **[AI ROI Assessment](https://github.com/edenciso/ai-roi-assessment)** – AWS SAM deployment package for an Autonomous AI ROI Value Assessment system.
+* **[Agent Sprawl Optimizer](https://github.com/edenciso/agent-sprawl-optimizer)** – AWS SAM deployment template implementing a JSON data ingestion workflow to execute an Agentic AI Stack Value Assessment and Agent sprawl optimization report.
+* **[Lost Deals Revenue Analysis](https://github.com/edenciso/lost-deals-analysis)** – AWS SAM Deployment for automated deals lost diagnostics, revenue impact, win-back playbook, and executive report.
