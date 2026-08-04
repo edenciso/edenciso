@@ -14,7 +14,6 @@ I'm currently building GenAI solutions, multi-agent swarms, and human-in-the-loo
 * **[Hybrid Agentic Swarm (HAS)](https://github.com/edenciso/hybrid-agentic-swarm-v2)** – HAS couples a governed Hermes Agent control plane with a decentralized swarm-intelligence layer. Quickstart runs a storm-restoration dispatch scenario.
 * **[Service Outage Orchestration Swarm](https://github.com/edenciso/service-outage-orchestration-swarm)** – Incident-response agent swarm that detects, correlates, localizes, and mitigates service outages (cloud, CDN, AI model serving). Built on the Hybrid Agentic Swarm Architecture (HAS). Include OpenClaw integration.
 * **[ValueOS Agentic Beta](https://github.com/edenciso/valueOS-agentic-beta)** – AI-native AWS Serverless deployment for [ValueOS](https://valuelayer.ai/valueos), a multi-agent system architecture to measure and capture value from any AI stack.
-* **[AI B2B Sales Automation Agent](https://github.com/edenciso/ai-b2b-sales-agent)** – An autonomous AI agent powered by Claude that automates the B2B sales process from market research, lead qualification to personalized outreach email and CRM records management via MCP servers.
 
 ##  Agentic AI Application Demos (Powered by Claude Sonnet/Opus)
 
