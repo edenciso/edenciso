@@ -17,8 +17,8 @@ I'm currently building GenAI solutions, multi-agent swarms, and human-in-the-loo
 
 ##  Agentic AI Application Demos (Powered by Claude Sonnet/Opus)
 
-* **[Remix Intelligence Studio](https://agentic-remix-studio-demo.pages.dev/)** – 6-agent autonomous workflow that ingests a weekly batch of cross-functional signals and produces a CEO-ready decision memo with evidence-backed themes, contradictions, recommendations, and calibrated confidence. [fork repo & improve it](https://github.com/edenciso/remix-agentic-intelligence)
-* **[Remix Discovery Studio](https://remix-discovery-studio.pages.dev/)** – 6-agent autonomous workflow that ingests a coded interview corpus from users and returns a discovery synthesis memo for Product Managers to support decision-making. [fork repo & improve it](https://github.com/edenciso/agentic-remix-discovery)
+* **[Remix Intelligence Studio](https://agentic-remix-studio-demo.pages.dev/)** – 6-agent autonomous workflow that ingests a weekly batch of cross-functional signals and produces a CEO-ready decision memo with evidence-backed themes, contradictions, recommendations, and calibrated confidence. [check repo](https://github.com/edenciso/remix-agentic-intelligence)
+* **[Remix Discovery Studio](https://remix-discovery-studio.pages.dev/)** – 6-agent autonomous workflow that ingests a coded interview corpus from users and returns a discovery synthesis memo for Product Managers to support decision-making. [check repo](https://github.com/edenciso/agentic-remix-discovery)
 * **[Multi-Agent GTM Audit](https://gtm-audit-demo.pages.dev/)** – Autonomous 5-agent workflow powered by Claude that ingest an AI startup JSON sample data to diagnose their GTM health score, execution gaps and generate an executive report including an AI GTM implementation roadmap.
 
 ## Open-source Agentic Deployment Templates (AWS SAM, Bedrock + Claude)
