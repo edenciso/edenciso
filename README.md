@@ -9,6 +9,7 @@ I'm currently building GenAI solutions, multi-agent swarms, and human-in-the-loo
 
 ## ⭐ Featured Agentic AI Projects
 
+* **[AVS Opportunity Engine](https://github.com/edenciso/AVS-opportunity-engine)** – Agentic system that continuously scans markets, generates investment theses, and validates venture opportunities.
 * **[Autonomous AI Value Engine](https://roadmap.valuelayer.ai/)** – 21-Agent Engine, 4 autonomous workflows to assess AI projects ROI attribution, GTM execution, AI tools sprawl, and deal lost revenue that allows companies unlock measurable AI value from their deployments.
 * **[Hybrid Agentic Swarm (HAS)](https://github.com/edenciso/hybrid-agentic-swarm-v2)** – HAS couples a governed Hermes Agent control plane with a decentralized swarm-intelligence layer.
 * **[ValueOS Agentic Beta](https://github.com/edenciso/valueOS-agentic-beta)** – AI-native AWS Serverless deployment for [ValueOS](https://valuelayer.ai/valueos), a multi-agent system architecture to measure and capture value from your AI stack.
