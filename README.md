@@ -1,7 +1,7 @@
 # Hi there, I'm Eduardo 👋
 
 I am a founder & strategic AI builder who can bridge AI agent architecture, enterprise workflow transformation, and business value realization.
-I'm currently leading the development of GenAI solutions, autonomous multi-agent systems, and human-in-the-loop workflows powered by SOTA LLMs at Swarmode. Previously, I led strategic Azure partnerships with global startups at Microsoft.
+I'm currently building GenAI solutions, multi-agent swarms, and human-in-the-loop automated workflows powered by SOTA LLMs. Previously, I led strategic Azure partnerships with global startups at Microsoft.
 
  [X](https://x.com/edenciso) · [LinkedIn](https://www.linkedin.com/in/edenciso)
 
